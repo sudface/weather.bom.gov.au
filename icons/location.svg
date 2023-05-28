@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Proton/24/Location pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,19 C8.66666667,15 7,12 7,10 C7,7 9,5 12,5 C15,5 17,7 17,10 C17,12 15.3333333,15 12,19 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Proton/24/Location-pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#007F69" xlink:href="#path-1"></use>
+    </g>
+</svg>

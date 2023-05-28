@@ -1,0 +1,9 @@
+<svg class='dash' aria-hidden='true' focusable='false' xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>.wind-1,.wind-2{fill:#003c71;}.wind-2{opacity:0.2;}</style>
+  </defs>
+  <g id="Icons">
+    <path class="wind-1" d="M18.25,11.25H5.75a.75.75,0,0,0,0,1.5h12.5a.75.75,0,0,0,0-1.5Z"/>
+    <path class="wind-2" d="M12,1.5A10.5,10.5,0,1,0,22.5,12,10.5,10.5,0,0,0,12,1.5ZM12,21a9,9,0,1,1,9-9A9,9,0,0,1,12,21Z"/>
+  </g>
+</svg>

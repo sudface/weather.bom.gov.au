@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>02 Clear Night Left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="02-Clear-Night-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Moon" transform="translate(3.000000, 24.000000)" stroke="#000000" stroke-width="2.5">
+            <path d="M0.526328498,28.8316477 C3.23617605,30.0896151 6.19652366,30.75 9.25276338,30.75 C20.7126719,30.75 30.0027634,21.4599086 30.0027634,10 C30.0027634,6.94376028 29.3423784,3.98341268 28.0844111,1.27356512 L26.9747284,-1.11685542 L29.52796,-0.463774935 C40.6123208,2.3714475 48.5027634,12.3980012 48.5027634,24 C48.5027634,37.9451899 37.1979533,49.25 23.2527634,49.25 C11.6507646,49.25 1.62421088,41.3595575 -1.21101156,30.2751967 L-1.86409204,27.721965 L0.526328498,28.8316477 Z" id="Oval-2"></path>
+        </g>
+    </g>
+</svg>

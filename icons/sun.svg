@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg aria-hidden='true' focusable='false' width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8.500000, 8.500000) rotate(180.000000) translate(-8.500000, -8.500000) translate(-5.000000, -5.000000)">
+            <path class='shade' d="M26.2132034,20.2132034 C26.2132034,13.5857864 20.8406204,8.21320344 14.2132034,8.21320344 C7.58578644,8.21320344 2.21320344,13.5857864 2.21320344,20.2132034 L26.2132034,20.2132034 Z"  fill-opacity="0.05" fill="#000000" transform="translate(14.213203, 14.213203) scale(-1, -1) rotate(-45.000000) translate(-14.213203, -14.213203) "></path>
+            <path d="M13.863961,10.863961 C13.863961,7.55025253 11.1776695,4.86396103 7.86396103,4.86396103 C4.55025253,4.86396103 1.86396103,7.55025253 1.86396103,10.863961"  fill="#F7D421" transform="translate(7.863961, 7.863961) scale(-1, -1) rotate(135.000000) translate(-7.863961, -7.863961) "></path>
+            <path d="M18.1066017,15.1066017 C18.1066017,11.7928932 15.4203102,9.10660172 12.1066017,9.10660172 C8.79289322,9.10660172 6.10660172,11.7928932 6.10660172,15.1066017"  fill="#878787" transform="translate(12.106602, 12.106602) scale(-1, 1) rotate(-135.000000) translate(-12.106602, -12.106602) "></path>
+            <path d="M2.5,2.5 L4.5,4.5" stroke="#FFDC70" stroke-linecap="round"></path>
+            <path d="M15.5,15.5 L17.5,17.5" stroke="#878787" stroke-linecap="round"></path>
+            <path d="M2.5,10 L0,10" stroke="#FFDC70" stroke-linecap="round"></path>
+            <path d="M20,10 L17.5,10" stroke="#878787" stroke-linecap="round"></path>
+            <path d="M10,2.5 L10,0" stroke="#FFDC70" stroke-linecap="round"></path>
+            <path d="M10,20 L10,17.5" stroke="#878787" stroke-linecap="round"></path>
+            <path d="M4.5,15.5 L2.5,17.5" stroke="#878787" stroke-linecap="round"></path>
+            <path d="M17.5,2.5 L15.5,4.5" stroke="#878787" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

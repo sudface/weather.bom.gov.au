@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Proton/24/step</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.0468815,11.2919812 L15.0468815,8 C15.0468815,7.44771525 15.4945968,7 16.0468815,7 L16.0968815,7 C16.6491663,7 17.0968815,7.44771525 17.0968815,8 L17.0968815,17 C17.0968815,17.5522847 16.6491663,18 16.0968815,18 L16.0468815,18 C15.4945968,18 15.0468815,17.5522847 15.0468815,17 L15.0468815,13.264368 L9.57059171,17.0692835 C9.11703675,17.3844126 8.49389521,17.2721962 8.17876611,16.8186413 C8.06237793,16.6511276 8,16.4520276 8,16.2480496 L8,8.3082996 C8,7.75601485 8.44771525,7.3082996 9,7.3082996 C9.20397805,7.3082996 9.40307802,7.37067753 9.57059171,7.48706571 L15.0468815,11.2919812 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Proton/24/step" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#191e50" xlink:href="#path-1"></use>
+    </g>
+</svg>

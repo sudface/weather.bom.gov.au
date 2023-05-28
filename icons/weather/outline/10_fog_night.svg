@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>10 Fog Night Left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="10-Fog-Night-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group" transform="translate(2.000000, 19.000000)" stroke="#000000" stroke-width="2.5">
+            <g id="Moon" transform="translate(12.000000, 0.000000)" stroke-linejoin="round">
+                <path d="M1.27356512,28.5844111 C3.98341268,29.8423784 6.94376028,30.5027634 10,30.5027634 C21.4599086,30.5027634 30.75,21.2126719 30.75,9.75276338 C30.75,6.69652366 30.0896151,3.73617605 28.8316477,1.0263285 L27.721965,-1.36409204 L30.2751967,-0.711011557 C41.3595575,2.12421088 49.25,12.1507646 49.25,23.7527634 C49.25,37.6979533 37.9451899,49.0027634 24,49.0027634 C12.3980012,49.0027634 2.3714475,41.1123208 -0.463774935,30.02796 L-1.11685542,27.4747284 L1.27356512,28.5844111 Z" id="Oval-2"></path>
+            </g>
+            <g id="Fog" transform="translate(0.000000, 37.000000)">
+                <path d="M0,23 L72,23" id="Path-5-Copy"></path>
+                <path d="M0,12 L72,12" id="Path-5-Copy-3"></path>
+                <path d="M0,1 L72,1" id="Path-5-Copy-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

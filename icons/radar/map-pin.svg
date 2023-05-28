@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icons/Proton/24/map-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.78164711,13.0421043 C8.59388237,9.51773226 10,6.83703084 10,5 C10,2 8,2.13162821e-14 5,1.77635684e-14 C2,1.29124815e-14 0,2 0,5 C7.03037624e-17,6.83703611 1.4061257,9.51774765 4.2183771,13.0421346 L4.21841441,13.0421048 C4.56286515,13.4737795 5.1920391,13.5444885 5.62371376,13.2000377 C5.68209087,13.1534563 5.73506569,13.1004814 5.78164711,13.0421043 Z" id="path-1"></path>
+        <filter x="-22.5%" y="-16.8%" width="145.0%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.25" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.960784314   0 0 0 0 0.960784314   0 0 0 0 0.960784314  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icons/Proton/24/map-pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#191E50" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <circle id="Oval-2" fill="#F5F5F5" mask="url(#mask-2)" cx="5" cy="5" r="2"></circle>
+        </g>
+    </g>
+</svg>

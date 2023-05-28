@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Proton/24/play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.82569864,9.22089188 L14.6355376,8.01547562 C15.1793682,7.91921164 15.6982674,8.28203605 15.7945313,8.82586662 C15.8149415,8.94117128 15.8149415,9.05916467 15.7945313,9.17446933 L14.5891151,15.9843083 C14.4928511,16.5281389 13.9739519,16.8909633 13.4301214,16.7946993 C13.228266,16.7589687 13.0422681,16.6620659 12.8973159,16.5171137 L7.29289322,10.912691 C6.90236893,10.5221667 6.90236893,9.88900175 7.29289322,9.49847746 C7.43784537,9.35352531 7.62384331,9.25662249 7.82569864,9.22089188 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Proton/24/play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#fff" transform="translate(11.404919, 12.405087) rotate(-315.000000) translate(-11.404919, -12.405087) " xlink:href="#path-1"></use>
+    </g>
+</svg>

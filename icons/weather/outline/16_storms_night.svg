@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>16 Storms Left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="16-Storms-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Storms" transform="translate(2.000000, 32.000000)" stroke="#000000" stroke-width="2.5">
+            <g id="Cloud" stroke-linejoin="round">
+                <path d="M31.0121484,39 C35.5768639,39 43.2394811,39 56,39 C61.5228475,39 66,34.5228475 66,29 C66,23.4771525 61.5228475,19 56,19 C55.8813924,19 55,19 54.5,19 C53.9000015,21 51.0408623,25 46,25 C50.9705627,25 55,20.9705627 55,16 C55,11.0294373 50.9705627,7 46,7 C45.2184707,7 44.4602077,7.09961479 43.7372153,7.28683997 C42.741664,3.10596292 38.9835503,0 34.5,0 C29.2532949,0 25,4.25329488 25,9.5 C25,10.1044605 25.0564531,10.6957357 25.1643746,11.2688407 C24.4737156,11.0911288 23.7474999,11 23,11 C18.0817818,11 14.0849716,14.9450169 14.001337,19.8432831 C12.7779224,19.2975202 11.423706,19 10,19 C4.4771525,19 0,23.4771525 0,29 C0,34.5228475 4.4771525,39 10,39 C15.3369314,39 18.3369314,39 21,39"></path>
+            </g>
+            <polyline id="Lightning" stroke-linejoin="round" points="18 39 14.5 46 21 46 14 59 35 39"></polyline>
+            <g id="Light-Rain" transform="translate(35.000000, 46.000000)">
+                <path d="M0,4 L4.00780489,0" id="Showers-Copy-2"></path>
+                <path d="M12,4 L16.0078049,0" id="Showers-Copy-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -3,6 +3,12 @@
 
 Some minor changes have been made to allow the website to function as of May 2023, and the original website can be found in the `weather.bom.gov.au.zip` file.
 
+Changes:
+* Rain Radar has been removed due to a defunct API call
+* 3-hourly forecast has been changed to an hourly forecast
+* Feels-like temperature is not showing in hourly forecast
+* Feedback and etc. have been removed from Footer.
+
 ---
 THIS WEBSITE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 

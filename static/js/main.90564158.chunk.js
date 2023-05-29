@@ -5811,9 +5811,9 @@
                 r = e.showError,
                 i = this.isValid(),
                 o = r && "Yes" === a && !eu()(c);
-              return P.a.createElement(lu, null, P.a.createElement(su, null, P.a.createElement(du, null, "Feedback"), P.a.createElement(uu, null, "We welcome your feedback to help us improve BOM Weather."), P.a.createElement(Mu, {
+              return P.a.createElement(lu, null, P.a.createElement(su, null, P.a.createElement(du, null, "Feedback"), P.a.createElement(uu, null, "Unfortunately this website and survey form are no longer maintained. This form remains purely for archival reasons. We welcome your feedback to help us improve BOM Weather."), P.a.createElement(Mu, {
                 method: "post",
-                action: "https://reg.bom.gov.au/cgi-bin/survey/survey.cgi"
+                action: "about:blank" // Originally https://reg.bom.gov.au/cgi-bin/survey/survey.cgi
               }, P.a.createElement("input", {
                 type: "hidden",
                 name: "Sv_SurveyId",
@@ -6031,13 +6031,7 @@
         Lu = "".concat("", "/icons"),
         ku = [{
           title: "Disclaimer",
-          url: "http://www.bom.gov.au/other/disclaimer.shtml"
-        }, {
-          title: "Privacy",
-          url: "http://www.bom.gov.au/other/privacy.shtml"
-        }, {
-          title: "Accessibility",
-          url: "http://www.bom.gov.au/other/accessibility.shtml"
+          url: "/README.md"
         }],
         _u = re.b.div.withConfig({
           displayName: "Footer"

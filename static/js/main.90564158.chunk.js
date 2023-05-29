@@ -5560,17 +5560,17 @@
             return (g = q()(this, (e = Y()(c)).call.apply(e, [this].concat(n)))).displayName = "Header", g.renderCrestHeader = function () {
               var e = g.props.condenseOnMobile,
                 t = P.a.createElement(Dd, {
-                  src: "".concat(_d, "/bom-inline-white.svg"),
-                  alt: "bureau of meteorology"
+                  src: "".concat(_d, "/disclaimer.svg"),
+                  alt: "Click for disclaimer"
                 });
               return P.a.createElement(Sd, {
                 condenseOnMobile: e
               }, P.a.createElement(Td, null, P.a.createElement(Id, {
-                href: "http://www.bom.gov.au"
+                href: "/README.md"
               }, t), P.a.createElement(Nd, null, g.renderDateTime())))
             }, g.renderCondensedHeader = function () {
               return P.a.createElement(zd, null, P.a.createElement(Wd, null, P.a.createElement(Id, {
-                href: "http://www.bom.gov.au"
+                href: "/README.md"
               }, P.a.createElement(Pd, null, "BOM")), P.a.createElement(Nd, null, g.renderDateTime())), P.a.createElement(Rd, null, g.renderDateTime()))
             }, g.renderDateTime = function () {
               var e = g.props.location;

@@ -1,4 +1,4 @@
-# weather.bom.gov.au
+# weather.bom.gov.au archive
 [An archival mirror](https://bomweather.firebaseapp.com) of the now defunct "weather.bom.gov.au" website. The website was retired in March 2023 in favour of the mobile application serving the same.
 
 Some minor changes have been made to allow the website to function as of May 2023, and the original website can be found in the `weather.bom.gov.au.zip` file.

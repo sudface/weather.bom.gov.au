@@ -5811,195 +5811,21 @@
                 r = e.showError,
                 i = this.isValid(),
                 o = r && "Yes" === a && !eu()(c);
-              return P.a.createElement(lu, null, P.a.createElement(su, null, P.a.createElement(du, null, "Feedback"), P.a.createElement(uu, null, "Unfortunately this website and survey form are no longer maintained. This form remains purely for archival reasons. We welcome your feedback to help us improve BOM Weather."), P.a.createElement(Mu, {
-                method: "post",
-                action: "about:blank" // Originally https://reg.bom.gov.au/cgi-bin/survey/survey.cgi
-              }, P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_SurveyId",
-                id: "Sv_SurveyId",
-                value: "WEBWEATHER19"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_Title",
-                id: "Sv_Title",
-                value: "BOM Weather Website Feedback"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_FileName",
-                id: "Sv_FileName",
-                value: "survey.txt"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_CGIInternal",
-                id: "Sv_CGIInternal",
-                value: "E"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_CGITitle",
-                id: "Sv_CGITitle",
-                value: "BOM Weather Website Feedback"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_CGIForwardUrl",
-                id: "Sv_CGIForwardUrl",
-                value: "weather.bom.gov.au/feedback/success"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_CGIText",
-                id: "Sv_CGIText",
-                value: "Thank you for taking the time to view the web page and provide feedback. Your response will help us deliver an even better weather webpage. "
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_CGIURL",
-                id: "Sv_CGIURL",
-                value: "weather.bom.gov.au"
-              }), P.a.createElement("input", {
-                type: "hidden",
-                name: "Sv_Time",
-                id: "Sv_Time",
-                value: Object(Ft.a)().valueOf()
-              }), P.a.createElement(mu, {
-                htmlFor: "recommend"
-              }, "How likely are you to recommend the site to a colleague or friend?"), P.a.createElement(ou, {
-                required: !0,
-                error: r && !n,
-                id: "recommend",
-                name: "r_Recommend",
-                onChange: function (e) {
-                  return t.setState({
-                    recommend: e.target.value
-                  })
-                }
-              }, P.a.createElement("option", {
-                value: ""
-              }, "Select"), P.a.createElement("option", {
-                value: "10"
-              }, "10 - Extremely likely"), P.a.createElement("option", {
-                value: "9"
-              }, "9"), P.a.createElement("option", {
-                value: "8"
-              }, "8"), P.a.createElement("option", {
-                value: "7"
-              }, "7"), P.a.createElement("option", {
-                value: "6"
-              }, "6"), P.a.createElement("option", {
-                value: "5"
-              }, "5 - Neutral"), P.a.createElement("option", {
-                value: "4"
-              }, "4"), P.a.createElement("option", {
-                value: "3"
-              }, "3"), P.a.createElement("option", {
-                value: "2"
-              }, "2"), P.a.createElement("option", {
-                value: "1"
-              }, "1"), P.a.createElement("option", {
-                value: "0"
-              }, "0 - Not at all likely")), P.a.createElement(mu, {
-                htmlFor: "experience"
-              }, "How would you rate your experience?"), P.a.createElement(ou, {
-                id: "experience",
-                name: "e_Experience"
-              }, P.a.createElement("option", {
-                value: ""
-              }, "Select"), P.a.createElement("option", {
-                value: "5"
-              }, "Love"), P.a.createElement("option", {
-                value: "4"
-              }, "Like"), P.a.createElement("option", {
-                value: "3"
-              }, "Neutral"), P.a.createElement("option", {
-                value: "2"
-              }, "Dislike"), P.a.createElement("option", {
-                value: "1"
-              }, "Hate")), P.a.createElement(mu, {
-                htmlFor: "satisfaction"
-              }, "The site offers all I need"), P.a.createElement(ou, {
-                id: "satisfaction",
-                name: "id121_1"
-              }, P.a.createElement("option", {
-                value: ""
-              }, "Select"), P.a.createElement("option", {
-                value: "5"
-              }, "Strongly Agree"), P.a.createElement("option", {
-                value: "4"
-              }, "Somewhat Agree"), P.a.createElement("option", {
-                value: "3"
-              }, "Neutral"), P.a.createElement("option", {
-                value: "2"
-              }, "Somewhat Disagree"), P.a.createElement("option", {
-                value: "1"
-              }, "Strongly Disagree")), P.a.createElement(mu, {
-                htmlFor: "response"
-              }, "I require a response to my feedback"), P.a.createElement(ou, {
-                id: "response",
-                name: "re_Response",
-                onChange: function (e) {
-                  return t.setState({
-                    response: e.target.value
-                  })
-                }
-              }, P.a.createElement("option", {
-                value: ""
-              }, "Select"), P.a.createElement("option", {
-                value: "Yes"
-              }, "Yes"), P.a.createElement("option", {
-                value: "No"
-              }, "No")), P.a.createElement(mu, {
-                htmlFor: "email"
-              }, "If yes, please include your email address"), P.a.createElement(fu, {
-                id: "email",
-                error: o,
-                name: "em_EMail_Address",
-                onChange: function (e) {
-                  return t.setState({
-                    email: e.target.value
-                  })
-                }
-              }), o && P.a.createElement(nu, {
-                error: r
-              }), P.a.createElement(mu, {
-                htmlFor: "state"
-              }, "Which state do you live in?"), P.a.createElement(ou, {
-                id: "state",
-                name: "st_State"
-              }, P.a.createElement("option", {
-                value: ""
-              }, "Select"), P.a.createElement("option", {
-                value: "NSW"
-              }, "New South Wales"), P.a.createElement("option", {
-                value: "VIC"
-              }, "Victoria"), P.a.createElement("option", {
-                value: "QLD"
-              }, "Queensland"), P.a.createElement("option", {
-                value: "WA"
-              }, "Western Australia"), P.a.createElement("option", {
-                value: "SA"
-              }, "South Australia"), P.a.createElement("option", {
-                value: "TAS"
-              }, "Tasmania"), P.a.createElement("option", {
-                value: "ACT"
-              }, "Australian Capital Territory"), P.a.createElement("option", {
-                value: "NT"
-              }, "Northern Territory")), P.a.createElement(mu, {
-                htmlFor: "comment"
-              }, "Feedback, comment, complaint?"), P.a.createElement(pu, {
-                id: "comment",
-                name: "cm_Comments"
-              }), P.a.createElement(yu, null, P.a.createElement(gu, {
-                onClick: function (e) {
-                  return i ? null : t.showErrors(e)
-                },
+              return P.a.createElement(lu, null, P.a.createElement(su, null, P.a.createElement(du, null, "Feedback"), 
+              P.a.createElement(uu, null, "Unfortunately this website and survey form are no longer maintained. This form remains purely for archival reasons."), P.a.createElement(Mu, {
+                method: "get",
+                action: "/README.md" // Originally https://reg.bom.gov.au/cgi-bin/survey/survey.cgi
+              }, P.a.createElement(yu, null, P.a.createElement(gu, {
                 type: "submit",
                 name: "WEBWEATHER19"
-              }, "Submit"), P.a.createElement(bu, {
+              }, "View Disclaimer"), P.a.createElement(bu, {
                 id: "cancel",
                 tabIndex: 0,
                 onClick: function () {
                   return t.props.goBack()
                 },
                 type: "button"
-              }, "Cancel")))))
+              }, "Return to App")))))
             }
           }]), t
         }(P.a.PureComponent),

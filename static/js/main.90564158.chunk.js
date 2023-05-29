@@ -5566,11 +5566,11 @@
               return P.a.createElement(Sd, {
                 condenseOnMobile: e
               }, P.a.createElement(Td, null, P.a.createElement(Id, {
-                href: "/README.md"
+                href: "/disclaimer.html"
               }, t), P.a.createElement(Nd, null, g.renderDateTime())))
             }, g.renderCondensedHeader = function () {
               return P.a.createElement(zd, null, P.a.createElement(Wd, null, P.a.createElement(Id, {
-                href: "/README.md"
+                href: "/disclaimer.html"
               }, P.a.createElement(Pd, null, "BOM")), P.a.createElement(Nd, null, g.renderDateTime())), P.a.createElement(Rd, null, g.renderDateTime()))
             }, g.renderDateTime = function () {
               var e = g.props.location;
@@ -5814,7 +5814,7 @@
               return P.a.createElement(lu, null, P.a.createElement(su, null, P.a.createElement(du, null, "Feedback"), 
               P.a.createElement(uu, null, "Unfortunately this website and survey form are no longer maintained. This form remains purely for archival reasons."), P.a.createElement(Mu, {
                 method: "get",
-                action: "/README.md" // Originally https://reg.bom.gov.au/cgi-bin/survey/survey.cgi
+                action: "/disclaimer.html" // Originally https://reg.bom.gov.au/cgi-bin/survey/survey.cgi
               }, P.a.createElement(yu, null, P.a.createElement(gu, {
                 type: "submit",
                 name: "WEBWEATHER19"
@@ -5857,7 +5857,7 @@
         Lu = "".concat("", "/icons"),
         ku = [{
           title: "Disclaimer",
-          url: "/README.md"
+          url: "/disclaimer.html"
         }],
         _u = re.b.div.withConfig({
           displayName: "Footer"

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 192 48" width="192" height="48" xmlns="http://www.w3.org/2000/svg">
-  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 15.8px; white-space: pre;" transform="matrix(1.643997, 0, 0, 1.7791, 5.12932, -5.053457)" x="7.541" y="22.247">DISCLAIMER</text>
+<svg viewBox="0 0 360 48" width="360" height="48" xmlns="http://www.w3.org/2000/svg">
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 15.8px; white-space: pre;" transform="matrix(1.643997, 0, 0, 1.7791, 5.12932, -5.053457)" x="0" y="22.247">Weather App. View Disclaimer.</text>
 </svg>

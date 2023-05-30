@@ -5,8 +5,7 @@ Some minor changes have been made to allow the website to function as of May 202
 
 Changes:
 * Rain Radar has been removed due to a defunct API call
-* 3-hourly forecast has been changed to an hourly forecast
-* Feels-like temperature is not showing in hourly forecast
+* Feels-like temperature is shown in hourly forecast in small print under Air Temperature
 * This disclaimer added
 * Feedback and other footer links have been removed
 

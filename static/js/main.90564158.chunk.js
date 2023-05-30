@@ -4037,6 +4037,9 @@
         Oo = Object(re.b)(je).withConfig({
           displayName: "HourlyForecast__Temperature"
         })(["font-size:1.25rem;line-height:1.25rem;@media ", "{font-size:1.75rem;line-height:2rem;}@media ", "{font-size:2rem;line-height:2rem;}"], ie.g.tabletPortrait, ie.g.desktopMedium),
+        feelOo = Object(re.b)(je).withConfig({
+          displayName: "HourlyForecast__TemperatureFeels"
+        })(["font-size:0.65rem;line-height:1.25rem;@media ", "{font-size:0.8rem;line-height:2rem;}@media ", "{font-size:0.8rem;line-height:2rem;}"], ie.g.tabletPortrait, ie.g.desktopMedium),
         So = re.b.div.withConfig({
           displayName: "HourlyForecast__ExpandableContainer"
         })(["", ";"], function (e) {
@@ -4100,6 +4103,7 @@
                 M = o.time,
                 m = o.rain,
                 p = o.isNight,
+                oFeelLike = o.tempFeelsLike,
                 f = o.temp,
                 h = o.wind,
                 g = (e = M, t = l, n = Ft.a.utc(e).tz(t), a = "ha", 0 < n.utcOffset() % 60 && (a = "h:ma"), n.format(a)).split(/ ?(am|pm)/),
@@ -4162,7 +4166,10 @@
                 "data-component": "DegreeContainerAir"
               }, P.a.createElement(Oo, {
                 temperature: f
-              })))), P.a.createElement(Io, null), P.a.createElement(To, null, i && P.a.createElement(Wo, {
+              }), P.a.createElement(feelOo, {
+                temperature: oFeelLike
+              })
+              ))), P.a.createElement(Io, null), P.a.createElement(To, null, i && P.a.createElement(Wo, {
                 expanded: i,
                 "data-component": "RainAmount"
               }, P.a.createElement(Pe, {
@@ -7648,6 +7655,7 @@
           humidity: Si.types.maybe(Si.types.number),
           iconDescriptor: Si.types.maybe(Si.types.string),
           isNight: Si.types.maybe(Si.types.boolean),
+          tempFeelsLike: Si.types.maybe(Si.types.number),
           rain: Si.types.maybe(Ap),
           temp: Si.types.maybe(Si.types.number),
           time: Si.types.string,

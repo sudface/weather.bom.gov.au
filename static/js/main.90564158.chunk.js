@@ -4548,7 +4548,7 @@
               }, P.a.createElement(zt.a, null, P.a.createElement(gl, null, "".concat(o, " unavailable"))));
               var l = "".concat(i ? "Hide" : "Show more"),
                 s = i ? "Rain" : "Chance of any rain",
-                d = n.slice(0, 16),
+                d = n.filter(function(value, index, Arr) { return index % 3 == 0; }), // Every 3rd element of array
                 u = Ol(d, a);
               return P.a.createElement(hl, {
                 "data-component": "HourlyForecasts"
